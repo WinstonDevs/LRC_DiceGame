@@ -1,0 +1,29 @@
+	
+ ___________________________________________________________
+
+  Left Center Right                                   IT-312
+  (3 players minimum)                             Winston To
+ ___________________________________________________________         
+                                              
+                           Rules                   
+                                            
+    Each player will roll up to 3 dice on their turn 
+    depending on how many chips are in their possession. 
+    If the player is out of chips, he/she is still in 
+    the game but passes their turn. 
+        (as he/she may get chips passed to him/her)          
+                                               
+      1 chip = roll one dice         0 chips = skipp turn               
+      2 chips = roll two die                   
+      3+ chips = roll three die                                      
+                                              
+    The player then takes the following action(s) 
+    based on their roll:              
+                                              
+      L: pass one chip to the left player      
+      C: place one chip into the pot           
+      R: pass one chip to the right player      
+      *: no action taken                        
+                                               
+        The last player that has chips is the winner!             
+ ___________________________________________________________
